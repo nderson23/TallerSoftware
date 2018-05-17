@@ -1,0 +1,9 @@
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\bin\Debug\Validaciones.exe.config
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\bin\Debug\Validaciones.exe
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\bin\Debug\Validaciones.pdb
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.Form1.resources
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.Properties.Resources.resources
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.GenerateResource.Cache
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.exe
+c:\users\anderson\documents\visual studio 2015\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
